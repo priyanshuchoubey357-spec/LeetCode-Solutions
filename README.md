@@ -34,3 +34,11 @@ Hard
 65_Valid_Number.java
 
 41_First_Missing_Positive.java
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/priyanshuchoubey357-spec/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
